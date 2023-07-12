@@ -1,0 +1,72 @@
+html{
+    width: 100%; 
+    font-family: 'Times New Roman', Times, serif;
+}
+
+#title{
+    background-color: black;
+    color:white;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+}
+
+#damask{
+    background-color: rgb(253, 124, 255);
+    color:black;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+}
+
+#lincoln{
+    background-color: rgb(252, 33, 33);
+    color:white;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+}
+
+#rosa{
+    background-color: rgb(255, 213, 0);
+    color:black;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+}
+
+#pink{
+    background-color: rgb(249, 139, 234);
+    color:green;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+}
+
+#boat{
+    background-color: rgb(255, 140, 0);
+    color:white;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+}
+
+#vanilla{
+    background-color: green;
+    color:white;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+}
+
+
+
+
+form{
+    background-color: black;
+    color: white;
+}
+
+.submit{
+    background-color: green;
+    color:white;
+}
+
+img{
+    
+    width: 150px;
+    height: 150px;
+}
